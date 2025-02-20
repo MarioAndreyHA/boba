@@ -1,0 +1,40 @@
+{
+    "name": "BobaLab",
+    "short_name": "BobaLab",
+    "description": "Una deliciosa experiencia en tu vaso",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "/",
+    "lang": "es",
+    "id":"index.html",
+    "start_url": "index.html",
+    "icons": [
+      {
+        "src": "images/icono/boba192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icono/boba512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+
+    "screenshots":[
+        {
+            "src":"/images/sc/sc1.png",
+            "sizes":"1288x681",
+            "type":"image/png",
+            "form_factor":"wide"
+        },
+        {
+            "src":"/images/sc/sc2.png",
+            "sizes":"489x681",
+            "type":"image/png",
+            "form_factor":"narrow"
+        }
+    ]
+
+  }
